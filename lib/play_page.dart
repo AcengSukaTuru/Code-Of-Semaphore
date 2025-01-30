@@ -12,7 +12,7 @@ class PlayPage extends StatefulWidget {
 
 class _PlayPageState extends State<PlayPage> {
   final List<String> words = [
-    "aku suka nasi goreng",
+    "aku suka nasi kamu",
     "saya sangat takut",
     "ibu itu baik hati",
     "makan pagi bersama keluarga",
