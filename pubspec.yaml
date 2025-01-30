@@ -1,0 +1,88 @@
+name: code_of_the_semaphore
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  audioplayers: ^6.1.0
+  flutter_launcher_icons: ^0.14.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/logo.png"
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/a.png
+    - assets/images/b.png
+    - assets/images/c.png
+    - assets/images/d.png
+    - assets/images/e.png
+    - assets/images/f.png
+    - assets/images/g.png
+    - assets/images/h.png
+    - assets/images/i.png
+    - assets/images/j.png
+    - assets/images/k.png
+    - assets/images/l.png
+    - assets/images/m.png
+    - assets/images/n.png
+    - assets/images/o.png
+    - assets/images/p.png
+    - assets/images/q.png
+    - assets/images/r.png
+    - assets/images/s.png
+    - assets/images/t.png
+    - assets/images/u.png
+    - assets/images/v.png
+    - assets/images/w.png
+    - assets/images/x.png
+    - assets/images/y.png
+    - assets/images/z.png
+    - assets/images/end.png
+    - assets/images/bg.png
+    - assets/images/code.png
+    - assets/images/of_the.png
+    - assets/images/semaphore.png
+    - assets/images/play_btn.png
+    - assets/images/back.png
+    - assets/images/again.png
+    - assets/images/gameover.png
+    - assets/images/berhasil.png
+    - assets/images/word_border.png
+    - assets/images/life.png
+    - assets/images/back_btn.png
+    - assets/images/cara_bermain.png
+    - assets/images/help.png
+    - assets/images/speaker.png
+    - assets/sounds/song.mp3
+    - assets/sounds/btn_sound.mp3
+    - assets/sounds/key_sound.mp3
+    - assets/sounds/win_sound.mp3
+    - assets/sounds/lose_sound.mp3
+    - assets/sounds/wrong_sound.mp3
+
+  fonts:
+    - family: Beige
+      fonts:
+        - asset: assets/fonts/Beige_Come.ttf
